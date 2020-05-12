@@ -30,7 +30,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-I ran into a bug when implementing the CreateMap file, the program would shut down whenever I tried to zoom directly to the pins. I wasn't able to find a solution to this bug. Instead I decided to extended the opening view when entering a map into general North America. 
+
+I learned a lot from working on this project and ran into quite a few bugs. For one, in the beginning my emulator keep re-opening prior projects instead of running the current project. I could download a new phone and run the project on a new phone but the old emulators didn't work. In order to fix this, I took advice I found on stackoverflow and imported a new projects settings.gradle file. 
+
+I ran into a bug when implementing the CreateMap file, the program would shut down and restart whenever I tried to zoom forward to directly to the pins. This bug eventually disappeared but I wasn't able to find the cause of it. Instead I decided to extended the opening view when entering a map into general North America. 
 
 ## License
 
