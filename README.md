@@ -24,7 +24,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/Vq49JkJ'/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="Vq49JkJ"><a href="https://imgur.com/Vq49JkJ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
